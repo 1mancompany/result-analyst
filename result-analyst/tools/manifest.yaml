@@ -1,0 +1,8 @@
+# Tool manifest — declare tools this agent can use
+# This talent uses host platform-provided file I/O + Python execution
+# (no MCP/custom tools needed for statistical analysis).
+
+# builtin_tools:
+#   - Read
+#   - Write
+#   - Bash
